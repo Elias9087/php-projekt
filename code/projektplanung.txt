@@ -1,0 +1,14 @@
+Journal abfrage Aplikation
+
+Idee:
+Eine Aplikation die fragt, wie dein Tag war und was man so gemacht hat. Danach werden die Einträge in einem .txt file
+automatisch gespeichert.
+
+Fragen:
+- Hallo! Wie war dein Tag heute?
+    - Wenn bestimmte Schlüsselwörter wie zum Beispiel traurig oder schlecht in der Antwort vorkommen, gibt es eine andere Antwort aus.
+    - Das gibt es dann für positiv und auch für negativ.
+- Welche Aufgaben hast du heute geamcht?
+
+Speicher:
+- Sobald man 'fertig' eingibt, werden die Eingaben in einem separaten .txt file gespeichert.

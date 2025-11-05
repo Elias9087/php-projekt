@@ -1,0 +1,17 @@
+[05-Nov-2025 09:31:47 UTC] PHP Parse error:  syntax error, unexpected token "print" in /opt/code/projekt.php on line 19
+[05-Nov-2025 10:25:54 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - string in /opt/code/projekt.php:35
+Stack trace:
+#0 {main}
+  thrown in /opt/code/projekt.php on line 35
+[05-Nov-2025 10:40:48 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - string in /opt/code/projekt.php:35
+Stack trace:
+#0 {main}
+  thrown in /opt/code/projekt.php on line 35
+[05-Nov-2025 10:44:10 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - string in /opt/code/projekt.php:35
+Stack trace:
+#0 {main}
+  thrown in /opt/code/projekt.php on line 35
+[05-Nov-2025 10:45:19 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - string in /opt/code/projekt.php:35
+Stack trace:
+#0 {main}
+  thrown in /opt/code/projekt.php on line 35
